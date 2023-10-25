@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(./Assets/fonts/inter/Inter-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Space Grotesk';
+  src: url(./Assets/fonts/Space_Grotesk/SpaceGrotesk-Regular.ttf);
+}
+
+.resume-btn:hover {
+  outline: none;
+  box-shadow: 3px 3px 0 0 #64ffda;
+  transform: translate(-4px, -4px);
+}
