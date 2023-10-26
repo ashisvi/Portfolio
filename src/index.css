@@ -12,6 +12,6 @@
   }
 
   .heading-l-1 {
-    @apply text-white text-5xl text-center font-bold mb-10;
+    @apply text-white text-3xl sm:text-5xl text-center font-bold mb-10;
   }
 }

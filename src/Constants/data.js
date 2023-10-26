@@ -45,15 +45,7 @@ const SOCIAL_LINKS = [
 ]
 
 const PROJECT_LIST = [
-  {
-    id: 1,
-    label: "Note App",
-    description: "A simple note application made using ReactJS and JavaScript. This application allow user to create, delete and edit notes. This application also support Markdown formating.",
-    image: "images/note-app.png",
-    demo: 'https://reactjsnotesapp.netlify.app/',
-    code: 'https://reactjsnotesapp.netlify.app/',
-    technologies: ['React', 'JavaScript', 'Sass']
-  },
+  
   {
     id: 2,
     label: "ToDo App",
@@ -62,6 +54,15 @@ const PROJECT_LIST = [
     demo: 'https://reactjsnotesapp.netlify.app/',
     code: 'https://reactjsnotesapp.netlify.app/',
     technologies: ['React', 'JavaScript', 'Sass', 'Bootstrap']
+  },
+  {
+    id: 3,
+    label: "Notes App",
+    description: "A simple note application made using ReactJS and JavaScript. This application allow user to create, delete and edit notes. This application also support Markdown formating.",
+    image: "images/note-app.png",
+    demo: 'https://reactjsnotesapp.netlify.app/',
+    code: 'https://reactjsnotesapp.netlify.app/',
+    technologies: ['React', 'JavaScript', 'Sass']
   },
 ]
 
